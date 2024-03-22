@@ -1,5 +1,5 @@
 <p>
-  <img src="aj header.png">
+  <img src="github-header-image (1).png">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aasish</h1>
