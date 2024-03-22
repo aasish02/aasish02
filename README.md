@@ -24,7 +24,7 @@
 
 - 📫 How to reach me *aasishm0201@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iCGLLDA4_KGfNEdCjkdA3UPkTfE2Co9P/view?usp=drive_link](https://drive.google.com/file/d/1iCGLLDA4_KGfNEdCjkdA3UPkTfE2Co9P/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iCGLLDA4_KGfNEdCjkdA3UPkTfE2Co9P/view?usp=sharing](https://drive.google.com/file/d/1iCGLLDA4_KGfNEdCjkdA3UPkTfE2Co9P/view?usp=sharing)
 
 - ⚡ Fun fact *always ready to chat, learn, and sprinkle some digital laughter into your day!*
 
