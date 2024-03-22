@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on *Object Detection using ML algorithms*
 
-- 🌱 I’m currently learning *Machine learning and Frontend frameworks*
+- 🌱 I’m currently learning *Machine learning and Frontend framework and libraries*
 
 - 👯 I’m looking to collaborate on *Machine learning projects*
 
