@@ -1,4 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
+<p>
+  <img src="">
+</p>
+
 <h1 align="center">Hi 👋, I'm Aasish</h1>
 
 <h3 align="center">A Pre-Final Year Student pursuing B Tech Information Technology at SSN College Of Engineering, Chennai</h3>
